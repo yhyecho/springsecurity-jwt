@@ -55,7 +55,8 @@ public class SwaggerConfig {
                 "Some custom description of API.",
                 "API TOS",
                 "Terms of service",
-                new Contact("Zhao XinGuo", "www.12366.com", "zhaoxg@12366.com"),
+                new Contact("Echo", "www.kpmg.com", "echo.h.yu@kpmg.com"),
                 "License of API", "API license URL", Collections.emptyList());
     }
+    
 }
